@@ -29,3 +29,4 @@ websockets>=10.0.0
 python-dotenv==0.19.2
 aiofiles==0.7.0
 jesse-dydx-v3-python==1.0.4
+pillow>=10.3.0 # not directly required, pinned by Snyk to avoid a vulnerability
